@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="f37904dfdb28720059c7f9a41d96190b" sys_domain="global" table="x_safe2_new_store_store" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>corp</element>
+            <position>1</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-01 01:54:47</sys_created_on>
+            <sys_id>ab706863db20b20059c7f9a41d9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_safe2_new_store_store" sys_domain="global" view="Default view">f37904dfdb28720059c7f9a41d96190b</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-01 01:54:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>corp_id</element>
+            <position>2</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-01 01:56:21</sys_created_on>
+            <sys_id>5ad0ac63db20b20059c7f9a41d961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_safe2_new_store_store" sys_domain="global" view="Default view">f37904dfdb28720059c7f9a41d96190b</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-01 01:56:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>str_nbr</element>
+            <position>3</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-01 01:57:28</sys_created_on>
+            <sys_id>3211e063db20b20059c7f9a41d961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_safe2_new_store_store" sys_domain="global" view="Default view">f37904dfdb28720059c7f9a41d96190b</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-01 01:57:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>str_div</element>
+            <position>4</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-01 01:57:29</sys_created_on>
+            <sys_id>0f1120a3db20b20059c7f9a41d9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_safe2_new_store_store" sys_domain="global" view="Default view">f37904dfdb28720059c7f9a41d96190b</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-01 01:57:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_safe2_new_store_store</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-01-31 05:35:50</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>f37904dfdb28720059c7f9a41d96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_safe2_new_store_store</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
+            <sys_update_name>sys_ui_section_f37904dfdb28720059c7f9a41d96190b</sys_update_name>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-01-31 05:35:50</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

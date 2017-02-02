@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Store" max_length="40" name="x_safe2_new_store_store" type="collection">
+        <element label="Corp ID" max_length="4" name="corp_id" type="string"/>
+        <element label="Store Division" max_length="40" name="str_div" type="integer"/>
+        <element display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
+    </element>
+</database>
