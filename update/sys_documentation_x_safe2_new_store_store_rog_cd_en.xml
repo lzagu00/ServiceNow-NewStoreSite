@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="rog_cd" label="Retail Order Group" language="en" table="x_safe2_new_store_store">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>rog_cd</element>
+            <help/>
+            <hint/>
+            <label>Retail Order Group</label>
+            <language>en</language>
+            <name>x_safe2_new_store_store</name>
+            <plural>Retail Order Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 05:36:01</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>c2bcd63fdb68b20059c7f9a41d961962</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Retail Order Group</sys_name>
+            <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
+            <sys_update_name>sys_documentation_x_safe2_new_store_store_rog_cd_en</sys_update_name>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 05:36:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

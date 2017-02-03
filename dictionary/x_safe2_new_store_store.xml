@@ -2,6 +2,14 @@
 <database>
     <element label="Store" max_length="40" name="x_safe2_new_store_store" type="collection">
         <element label="Corp ID" max_length="4" name="corp_id" type="string"/>
+        <element choice="3" label="Retail Order Group" max_length="4" name="rog_cd" type="string">
+            <choice>
+                <element label="- Select ROG -" value="na"/>
+                <element label="ADEN" value="ADEN"/>
+                <element label="SDEN" value="SDEN"/>
+            </choice>
+        </element>
+        <element label="Store Address" max_length="40" name="str_addr_txt" type="string"/>
         <element label="Store Division" max_length="40" name="str_div" type="integer"/>
         <element display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
     </element>

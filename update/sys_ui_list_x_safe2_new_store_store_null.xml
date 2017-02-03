@@ -4,17 +4,122 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b4c8c8dfdb28720059c7f9a41d961917</list_id>
+            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0e736e33dba8b20059c7f9a41d9619a6</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-01-31 05:32:38</sys_created_on>
-            <sys_id>f8c8c8dfdb28720059c7f9a41d961917</sys_id>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
+            <sys_id>42736e33dba8b20059c7f9a41d9619a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-01-31 05:32:38</sys_updated_on>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>corp_id</element>
+            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0e736e33dba8b20059c7f9a41d9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
+            <sys_id>c2736e33dba8b20059c7f9a41d9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0e736e33dba8b20059c7f9a41d9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
+            <sys_id>46736e33dba8b20059c7f9a41d9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rog_cd</element>
+            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0e736e33dba8b20059c7f9a41d9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
+            <sys_id>c6736e33dba8b20059c7f9a41d9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>str_addr_txt</element>
+            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0e736e33dba8b20059c7f9a41d9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
+            <sys_id>4a736e33dba8b20059c7f9a41d9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>str_div</element>
+            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0e736e33dba8b20059c7f9a41d9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
+            <sys_id>ca736e33dba8b20059c7f9a41d9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>str_nbr</element>
+            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0e736e33dba8b20059c7f9a41d9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
+            <sys_id>4e736e33dba8b20059c7f9a41d9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="x_safe2_new_store_store" element="NULL" name="x_safe2_new_store_store" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">0e736e33dba8b20059c7f9a41d9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
+            <sys_id>ce736e33dba8b20059c7f9a41d9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -28,10 +133,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-01-31 05:32:38</sys_created_on>
+            <sys_created_on>2017-02-02 06:05:31</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_id>b4c8c8dfdb28720059c7f9a41d961917</sys_id>
+            <sys_id>0e736e33dba8b20059c7f9a41d9619a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_safe2_new_store_store</sys_name>
             <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
@@ -40,7 +145,7 @@
             <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
             <sys_update_name>sys_ui_list_x_safe2_new_store_store_null</sys_update_name>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-01-31 05:32:38</sys_updated_on>
+            <sys_updated_on>2017-02-02 06:05:31</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

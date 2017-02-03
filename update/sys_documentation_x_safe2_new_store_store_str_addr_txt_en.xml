@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="str_addr_txt" label="Store Address" language="en" table="x_safe2_new_store_store">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>str_addr_txt</element>
+            <help/>
+            <hint/>
+            <label>Store Address</label>
+            <language>en</language>
+            <name>x_safe2_new_store_store</name>
+            <plural>Store Address</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-02 05:33:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6a3c563fdb68b20059c7f9a41d96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Store Address</sys_name>
+            <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
+            <sys_update_name>sys_documentation_x_safe2_new_store_store_str_addr_txt_en</sys_update_name>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-02 05:33:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
