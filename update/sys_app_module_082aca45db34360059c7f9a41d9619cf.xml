@@ -12,34 +12,34 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Stores</mobile_title>
+        <mobile_title>Create Store Equipment</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_safe2_new_store_store</name>
-        <order/>
+        <name>sys_store_app</name>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_safe2_new_store_store_user</roles>
+        <roles/>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>lzagu00.sa</sys_created_by>
-        <sys_created_on>2017-01-31 05:32:07</sys_created_on>
+        <sys_created_on>2017-02-06 01:27:56</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_id>99a8c0dfdb28720059c7f9a41d9619ff</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Stores</sys_name>
+        <sys_id>082aca45db34360059c7f9a41d9619cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Store Equipment</sys_name>
         <sys_overrides/>
         <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
-        <sys_update_name>sys_app_module_99a8c0dfdb28720059c7f9a41d9619ff</sys_update_name>
+        <sys_update_name>sys_app_module_082aca45db34360059c7f9a41d9619cf</sys_update_name>
         <sys_updated_by>lzagu00.sa</sys_updated_by>
-        <sys_updated_on>2017-02-07 02:09:30</sys_updated_on>
+        <sys_updated_on>2017-02-06 01:27:56</sys_updated_on>
         <timeline_page/>
-        <title>Stores</title>
+        <title>Create Store Equipment</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Store" max_length="40" name="x_safe2_new_store_store" type="collection">
-        <element label="Corp ID" max_length="4" name="corp_id" type="string"/>
-        <element choice="3" label="Retail Order Group" max_length="4" name="rog_cd" type="string">
+    <element audit="true" label="Store" max_length="40" name="x_safe2_new_store_store" type="collection">
+        <element audit="true" label="Corp ID" max_length="4" name="corp_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Person for Money Order Equipment" max_length="40" name="money_ord_cntct_nm" type="string"/>
+        <element audit="true" choice="3" label="Retail Order Group" max_length="4" name="rog_cd" type="string">
             <choice>
                 <element label="- Select ROG -" value="na"/>
                 <element label="ADEN" value="ADEN"/>
                 <element label="SDEN" value="SDEN"/>
             </choice>
         </element>
-        <element label="Store Address" max_length="40" name="str_addr_txt" type="string"/>
-        <element label="Store Division" max_length="40" name="str_div" type="integer"/>
-        <element display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
+        <element audit="true" label="Store Address" max_length="40" name="str_addr_txt" type="string"/>
+        <element audit="true" label="Store Division" max_length="40" name="str_div" type="integer"/>
+        <element audit="true" display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
+        <element label="Bank (Zip/Posta) Code" max_length="40" name="u_integer_15" type="integer"/>
+        <element label="This Store resides in S.E.A Section number#" max_length="40" name="u_integer_16" type="integer"/>
+        <element label="Regular Division Number" max_length="40" name="u_integer_19" type="integer"/>
+        <element label="Sister Store" max_length="40" name="u_integer_2" type="integer"/>
+        <element label="Lawson Division Number" max_length="40" name="u_integer_20" type="integer"/>
+        <element label="Transportation Miles" max_length="40" name="u_integer_23" type="integer"/>
+        <element label="Number of Full Time Employees" max_length="40" name="u_integer_24" type="integer"/>
+        <element label="Number of Part Time Employees" max_length="40" name="u_integer_25" type="integer"/>
+        <element label="Estimated Weekly Sales for this Store" max_length="40" name="u_integer_26" type="integer"/>
+        <element label="Customer Count (for entire store - weekly)" max_length="40" name="u_integer_27" type="integer"/>
+        <element label="Zip/Postal Code/ City Limits" max_length="40" name="u_integer_5" type="integer"/>
+        <element label="District Number" max_length="40" name="u_integer_9" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bank Name/Banking Operations" max_length="40" name="u_string_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bank Address" max_length="40" name="u_string_12" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bank City" max_length="40" name="u_string_13" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bank State/Province" max_length="40" name="u_string_14" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Store" max_length="40" name="u_string_17" type="string">
+            <choice>
+                <element label="Denver - Regular" sequence="0" value="Denver - Regular"/>
+                <element label="Denver - Concession" sequence="1" value="Denver - Concession"/>
+                <element label="Albertsons - Regular" sequence="2" value="Albertsons - Regular"/>
+                <element label="Albertsons - Concession" sequence="3" value="Albertsons - Concession"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Store Banner" max_length="40" name="u_string_18" type="string">
+            <choice>
+                <element label="-Select Store Banner-" sequence="0" value="-Select Store Banner-"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Store Class" max_length="40" name="u_string_21" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Building Code" max_length="40" name="u_string_22" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Building Heating System" max_length="40" name="u_string_28" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Store will open to public (mm/dd/yyyy)" max_length="40" name="u_string_30" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Store Managers Name" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assistant Store Managers Name" max_length="40" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="District Managers Name" max_length="40" name="u_string_8" type="string"/>
     </element>
 </database>
