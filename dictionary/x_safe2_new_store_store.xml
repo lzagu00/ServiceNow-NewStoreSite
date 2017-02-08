@@ -14,6 +14,8 @@
         <element audit="true" label="Store Division" max_length="40" name="str_div" type="integer"/>
         <element audit="true" display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
         <element label="New Field Name" max_length="80" name="u_field_name_1" type="field_name"/>
+        <element label="Delivery Money Orders/Equipment to" max_length="80" name="u_field_name_13" type="field_name"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="If Yes for Lottery - What is the Customer count" max_length="1024" name="u_glide_list_25" type="string"/>
         <element label="Bank (Zip/Posta) Code" max_length="40" name="u_integer_15" type="integer"/>
         <element label="This Store resides in S.E.A Section number#" max_length="40" name="u_integer_16" type="integer"/>
         <element label="Regular Division Number" max_length="40" name="u_integer_19" type="integer"/>
@@ -35,6 +37,8 @@
         <element attributes="edge_encryption_enabled=true" label="Bank Address" max_length="40" name="u_string_12" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Bank City" max_length="40" name="u_string_13" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Bank State/Province" max_length="40" name="u_string_14" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Money Orders/ Equipment Store Address" max_length="40" name="u_string_15" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Money Orders/ Equipment City" max_length="40" name="u_string_16" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Type of Store" max_length="40" name="u_string_17" type="string">
             <choice>
                 <element label="Denver - Regular" sequence="0" value="Denver - Regular"/>
@@ -50,16 +54,33 @@
                 <element label="Choice 3" sequence="2" value="Choice 3"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Money Orders/ Equipment State/Province" max_length="40" name="u_string_19" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Direct Store Delivery Sister Store" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Money Orders/ Equipment ZIP/Postal Code" max_length="40" name="u_string_20" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Store Class" max_length="40" name="u_string_21" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Building Code" max_length="40" name="u_string_22" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date by which money order equipment should arrive (mm/dd/yyyy)" max_length="40" name="u_string_23" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Yes" label="Will this Store participate in lottery/lotto?" max_length="40" name="u_string_24" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Yes" label="Would you like money order training for Employees?" max_length="40" name="u_string_26" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Building Heating System" max_length="40" name="u_string_28" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="DFF Store Number" max_length="40" name="u_string_3" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date Store will open to public (mm/dd/yyyy)" max_length="40" name="u_string_30" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Money Order Fee Amount for this Store" max_length="40" name="u_string_5" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Store Managers Name" max_length="40" name="u_string_6" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Assistant Store Managers Name" max_length="40" name="u_string_7" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="District Managers Name" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other (text area limit is 254 characters)" max_length="255" name="u_string_full_utf8_27" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true" label="Others (limit 254 characters)" max_length="255" name="u_string_full_utf8_7" type="string_full_utf8"/>
     </element>
 </database>

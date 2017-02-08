@@ -5,13 +5,153 @@
             <element>money_ord_cntct_nm</element>
             <position>0</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-02-07 05:35:09</sys_created_on>
-            <sys_id>ce7c48eddbfc360059c7f9a41d9619b3</sys_id>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>0fec09f5db38760059c7f9a41d961954</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:09</sys_updated_on>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_5</element>
+            <position>1</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>8fec09f5db38760059c7f9a41d961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_15</element>
+            <position>2</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>03ec09f5db38760059c7f9a41d961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_16</element>
+            <position>3</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>83ec09f5db38760059c7f9a41d961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_19</element>
+            <position>4</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>07ec09f5db38760059c7f9a41d961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_20</element>
+            <position>5</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>87ec09f5db38760059c7f9a41d961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_23</element>
+            <position>6</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>0bec09f5db38760059c7f9a41d961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_24</element>
+            <position>7</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>8bec09f5db38760059c7f9a41d961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_list_25</element>
+            <position>8</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>0fec09f5db38760059c7f9a41d961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_26</element>
+            <position>9</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>8fec09f5db38760059c7f9a41d961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_full_utf8_27</element>
+            <position>10</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-08 04:55:14</sys_created_on>
+            <sys_id>03ec09f5db38760059c7f9a41d961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 04:55:14</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
