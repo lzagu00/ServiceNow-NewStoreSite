@@ -17,132 +17,145 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-02-07 05:29:08</sys_created_on>
+            <sys_created_on>2017-02-08 03:42:35</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>021b40eddbfc360059c7f9a41d961948</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>7e4cb03ddbf4760059c7f9a41d9619be</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_safe2_new_store_store" sys_domain="global" view="Default view">f64cb03ddbf4760059c7f9a41d9619be</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:29:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
-            <sys_created_on>2017-02-07 05:35:08</sys_created_on>
+            <sys_created_on>2017-02-07 05:29:08</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>fd7c48eddbfc360059c7f9a41d9619b1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>021b40eddbfc360059c7f9a41d961948</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Phone Information" display_value="Phone Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">717c48eddbfc360059c7f9a41d9619af</sys_ui_section>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="Default view">821b40eddbfc360059c7f9a41d961947</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>3</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
             <sys_created_on>2017-02-07 05:35:08</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>b17c48eddbfc360059c7f9a41d9619b2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>fd7c48eddbfc360059c7f9a41d9619b1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Store Special Features" display_value="Store Special Features" name="x_safe2_new_store_store" sys_domain="global" view="Default view">b57c48eddbfc360059c7f9a41d9619af</sys_ui_section>
+            <sys_ui_section caption="Phone Information" display_value="Phone Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">717c48eddbfc360059c7f9a41d9619af</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>4</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
             <sys_created_on>2017-02-07 05:35:08</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>757c48eddbfc360059c7f9a41d9619b2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>b17c48eddbfc360059c7f9a41d9619b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Department Information" display_value="Department Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">f97c48eddbfc360059c7f9a41d9619af</sys_ui_section>
+            <sys_ui_section caption="Store Special Features" display_value="Store Special Features" name="x_safe2_new_store_store" sys_domain="global" view="Default view">b57c48eddbfc360059c7f9a41d9619af</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>5</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
             <sys_created_on>2017-02-07 05:35:08</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>397c48eddbfc360059c7f9a41d9619b2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>757c48eddbfc360059c7f9a41d9619b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Section Information" display_value="Section Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">317c48eddbfc360059c7f9a41d9619b0</sys_ui_section>
+            <sys_ui_section caption="Department Information" display_value="Department Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">f97c48eddbfc360059c7f9a41d9619af</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>6</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
             <sys_created_on>2017-02-07 05:35:08</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>f97c48eddbfc360059c7f9a41d9619b2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>397c48eddbfc360059c7f9a41d9619b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Checkstand Information" display_value="Checkstand Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">757c48eddbfc360059c7f9a41d9619b0</sys_ui_section>
+            <sys_ui_section caption="Section Information" display_value="Section Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">317c48eddbfc360059c7f9a41d9619b0</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>7</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
             <sys_created_on>2017-02-07 05:35:08</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>bd7c48eddbfc360059c7f9a41d9619b2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>f97c48eddbfc360059c7f9a41d9619b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Real Estate Information" display_value="Real Estate Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">b97c48eddbfc360059c7f9a41d9619b0</sys_ui_section>
+            <sys_ui_section caption="Checkstand Information" display_value="Checkstand Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">757c48eddbfc360059c7f9a41d9619b0</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>8</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
             <sys_created_on>2017-02-07 05:35:08</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>717c48eddbfc360059c7f9a41d9619b3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>bd7c48eddbfc360059c7f9a41d9619b2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Store Hours" display_value="Store Hours" name="x_safe2_new_store_store" sys_domain="global" view="Default view">fd7c48eddbfc360059c7f9a41d9619b0</sys_ui_section>
+            <sys_ui_section caption="Real Estate Information" display_value="Real Estate Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">b97c48eddbfc360059c7f9a41d9619b0</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>9</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
             <sys_created_on>2017-02-07 05:35:08</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_id>357c48eddbfc360059c7f9a41d9619b3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>717c48eddbfc360059c7f9a41d9619b3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
-            <sys_ui_section caption="Fuel Station" display_value="Fuel Station" name="x_safe2_new_store_store" sys_domain="global" view="Default view">357c48eddbfc360059c7f9a41d9619b1</sys_ui_section>
+            <sys_ui_section caption="Store Hours" display_value="Store Hours" name="x_safe2_new_store_store" sys_domain="global" view="Default view">fd7c48eddbfc360059c7f9a41d9619b0</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>10</position>
             <sys_created_by>lzagu00.sa</sys_created_by>
             <sys_created_on>2017-02-07 05:35:08</sys_created_on>
             <sys_domain>global</sys_domain>
+            <sys_id>357c48eddbfc360059c7f9a41d9619b3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
+            <sys_ui_section caption="Fuel Station" display_value="Fuel Station" name="x_safe2_new_store_store" sys_domain="global" view="Default view">357c48eddbfc360059c7f9a41d9619b1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>11</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-07 05:35:08</sys_created_on>
+            <sys_domain>global</sys_domain>
             <sys_id>f57c48eddbfc360059c7f9a41d9619b3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="Default view">0a1b40eddbfc360059c7f9a41d961947</sys_ui_form>
             <sys_ui_section caption="Store Equipment Information" display_value="Store Equipment Information" name="x_safe2_new_store_store" sys_domain="global" view="Default view">797c48eddbfc360059c7f9a41d9619b1</sys_ui_section>
             <sys_updated_by>lzagu00.sa</sys_updated_by>
-            <sys_updated_on>2017-02-07 05:35:08</sys_updated_on>
+            <sys_updated_on>2017-02-08 03:42:35</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_safe2_new_store_store</name>

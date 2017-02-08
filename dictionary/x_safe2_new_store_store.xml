@@ -13,6 +13,7 @@
         <element audit="true" label="Store Address" max_length="40" name="str_addr_txt" type="string"/>
         <element audit="true" label="Store Division" max_length="40" name="str_div" type="integer"/>
         <element audit="true" display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
+        <element label="New Field Name" max_length="80" name="u_field_name_1" type="field_name"/>
         <element label="Bank (Zip/Posta) Code" max_length="40" name="u_integer_15" type="integer"/>
         <element label="This Store resides in S.E.A Section number#" max_length="40" name="u_integer_16" type="integer"/>
         <element label="Regular Division Number" max_length="40" name="u_integer_19" type="integer"/>
@@ -23,8 +24,12 @@
         <element label="Number of Part Time Employees" max_length="40" name="u_integer_25" type="integer"/>
         <element label="Estimated Weekly Sales for this Store" max_length="40" name="u_integer_26" type="integer"/>
         <element label="Customer Count (for entire store - weekly)" max_length="40" name="u_integer_27" type="integer"/>
+        <element label="Randall TimeCorp Number" max_length="40" name="u_integer_4" type="integer"/>
         <element label="Zip/Postal Code/ City Limits" max_length="40" name="u_integer_5" type="integer"/>
+        <element label="SRS Change Number (used by I/T)" max_length="40" name="u_integer_6" type="integer"/>
         <element label="District Number" max_length="40" name="u_integer_9" type="integer"/>
+        <element label="Work Notes" max_length="4000" name="u_journal_10" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Coupon Management System Sister Store" max_length="40" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Country" max_length="40" name="u_string_10" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Bank Name/Banking Operations" max_length="40" name="u_string_11" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Bank Address" max_length="40" name="u_string_12" type="string"/>
@@ -45,13 +50,16 @@
                 <element label="Choice 3" sequence="2" value="Choice 3"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Direct Store Delivery Sister Store" max_length="40" name="u_string_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Store Class" max_length="40" name="u_string_21" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Building Code" max_length="40" name="u_string_22" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Building Heating System" max_length="40" name="u_string_28" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DFF Store Number" max_length="40" name="u_string_3" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date Store will open to public (mm/dd/yyyy)" max_length="40" name="u_string_30" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="u_string_4" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Store Managers Name" max_length="40" name="u_string_6" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Assistant Store Managers Name" max_length="40" name="u_string_7" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="District Managers Name" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Others (limit 254 characters)" max_length="255" name="u_string_full_utf8_7" type="string_full_utf8"/>
     </element>
 </database>
