@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="store_type" table="x_safe2_new_store_store" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Store</label>
+            <language>en</language>
+            <name>x_safe2_new_store_store</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-09 23:34:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6796d2dadb78b60059c7f9a41d961976</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-09 23:34:24</sys_updated_on>
+            <value>closed_store</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fuel Station</label>
+            <language>en</language>
+            <name>x_safe2_new_store_store</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-09 23:34:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d9a61a9adb78b60059c7f9a41d961995</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-09 23:34:33</sys_updated_on>
+            <value>fuel_station</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>store_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Store</label>
+            <language>en</language>
+            <name>x_safe2_new_store_store</name>
+            <sequence/>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-09 23:34:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>de7616dadb78b60059c7f9a41d961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-09 23:34:02</sys_updated_on>
+            <value>new_store</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>store_type</element>
+            <name>x_safe2_new_store_store</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-09 23:34:02</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9d961a9adb78b60059c7f9a41d961991</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>store_type</sys_name>
+            <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
+            <sys_update_name>sys_choice_x_safe2_new_store_store_store_type</sys_update_name>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-09 23:34:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
