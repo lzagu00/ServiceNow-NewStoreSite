@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element audit="true" label="Store" max_length="40" name="x_safe2_new_store_store" type="collection">
-        <element audit="true" label="Corp ID" max_length="4" name="corp_id" type="string"/>
+        <element audit="true" choice="3" default="US" label="Corp ID" max_length="4" name="corp_id" type="string">
+            <choice>
+                <element label="US" sequence="0" value="US"/>
+                <element label="CANADA" sequence="1" value="CANADA"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Contact Person for Money Order Equipment" max_length="40" name="money_ord_cntct_nm" type="string"/>
         <element audit="true" choice="3" label="Retail Order Group" max_length="4" name="rog_cd" type="string">
             <choice>

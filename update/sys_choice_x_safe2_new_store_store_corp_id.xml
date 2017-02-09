@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="corp_id" table="x_safe2_new_store_store" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>corp_id</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US</label>
+            <language>en</language>
+            <name>x_safe2_new_store_store</name>
+            <sequence>0</sequence>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-09 05:40:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ffc06a82dbb0b60059c7f9a41d961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-09 05:40:13</sys_updated_on>
+            <value>US</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>corp_id</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CANADA</label>
+            <language>en</language>
+            <name>x_safe2_new_store_store</name>
+            <sequence>1</sequence>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-09 05:40:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b7c06a82dbb0b60059c7f9a41d961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-09 05:40:13</sys_updated_on>
+            <value>CANADA</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>corp_id</element>
+            <name>x_safe2_new_store_store</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-09 05:40:13</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b3c06a82dbb0b60059c7f9a41d961927</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>corp_id</sys_name>
+            <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
+            <sys_update_name>sys_choice_x_safe2_new_store_store_corp_id</sys_update_name>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-09 05:40:13</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
