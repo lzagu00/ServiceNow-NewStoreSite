@@ -18,6 +18,12 @@
         <element audit="true" label="Store Address" max_length="40" name="str_addr_txt" type="string"/>
         <element audit="true" label="Store Division" max_length="40" name="str_div" type="integer"/>
         <element audit="true" display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
+        <element choice="3" label="Store Status" max_length="15" name="str_status" type="string">
+            <choice>
+                <element label="Complete" value="cp"/>
+                <element label="In Progress" value="ip"/>
+            </choice>
+        </element>
         <element label="New Field Name" max_length="80" name="u_field_name_1" type="field_name"/>
         <element label="Delivery Money Orders/Equipment to" max_length="80" name="u_field_name_13" type="field_name"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="If Yes for Lottery - What is the Customer count" max_length="1024" name="u_glide_list_25" type="string"/>
