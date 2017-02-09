@@ -15,7 +15,13 @@
                 <element label="SDEN" value="SDEN"/>
             </choice>
         </element>
-        <element label="Store Type" max_length="15" name="store_type" type="string"/>
+        <element choice="3" label="Store Type" max_length="15" name="store_type" type="string">
+            <choice>
+                <element label="Closed Store" value="closed_store"/>
+                <element label="Fuel Station" value="fuel_station"/>
+                <element label="New Store" value="new_store"/>
+            </choice>
+        </element>
         <element audit="true" label="Store Address" max_length="40" name="str_addr_txt" type="string"/>
         <element audit="true" label="Store Division" max_length="40" name="str_div" type="integer"/>
         <element audit="true" display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
