@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="General Information Setup" section_id="849c56dedb78b60059c7f9a41d9619c1" sys_domain="global" table="x_safe2_new_store_store" version="3" view="Initiate_Closed_Store">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>str_div</element>
+            <position>0</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>682d5adedb78b60059c7f9a41d961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>corp_id</element>
+            <position>1</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>e82d5adedb78b60059c7f9a41d961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>str_nbr</element>
+            <position>2</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>6c2d5adedb78b60059c7f9a41d961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_2</element>
+            <position>3</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>ec2d5adedb78b60059c7f9a41d961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_9</element>
+            <position>4</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>602d5adedb78b60059c7f9a41d961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_6</element>
+            <position>5</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>e02d5adedb78b60059c7f9a41d961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_8</element>
+            <position>6</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>642d5adedb78b60059c7f9a41d961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <position>7</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>e42d5adedb78b60059c7f9a41d961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>str_addr_txt</element>
+            <position>8</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>682d5adedb78b60059c7f9a41d961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <position>9</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>e82d5adedb78b60059c7f9a41d961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_integer_5</element>
+            <position>10</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>6c2d5adedb78b60059c7f9a41d961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_10</element>
+            <position>11</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>ec2d5adedb78b60059c7f9a41d961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_17</element>
+            <position>12</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>602d5adedb78b60059c7f9a41d961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_30</element>
+            <position>13</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>e02d5adedb78b60059c7f9a41d961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_full_utf8_7</element>
+            <position>14</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>642d5adedb78b60059c7f9a41d961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>store_type</element>
+            <position>15</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:02:38</sys_created_on>
+            <sys_id>e42d5adedb78b60059c7f9a41d961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="0c9c56dedb78b60059c7f9a41d9619c0">849c56dedb78b60059c7f9a41d9619c1</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:02:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>General Information Setup</caption>
+            <header>false</header>
+            <name>x_safe2_new_store_store</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 00:00:09</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>849c56dedb78b60059c7f9a41d9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>General Information Setup</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
+            <sys_update_name>sys_ui_section_849c56dedb78b60059c7f9a41d9619c1</sys_update_name>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 00:00:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Initiate Closed Store" name="Initiate_Closed_Store">0c9c56dedb78b60059c7f9a41d9619c0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
