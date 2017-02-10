@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="1b1c66d6dbb8b60059c7f9a41d961966" sys_domain="global" table="x_safe2_new_store_store" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>9f1c66d6dbb8b60059c7f9a41d961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="General Information Setup" display_value="General Information Setup" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">db1c66d6dbb8b60059c7f9a41d961962</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>131c66d6dbb8b60059c7f9a41d961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">131c66d6dbb8b60059c7f9a41d961963</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d31c66d6dbb8b60059c7f9a41d961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Money Order Details" display_value="Money Order Details" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">571c66d6dbb8b60059c7f9a41d961963</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>971c66d6dbb8b60059c7f9a41d961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Phone Information" display_value="Phone Information" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">9b1c66d6dbb8b60059c7f9a41d961963</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5b1c66d6dbb8b60059c7f9a41d961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Store Special Features" display_value="Store Special Features" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">df1c66d6dbb8b60059c7f9a41d961963</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1f1c66d6dbb8b60059c7f9a41d961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Department Information" display_value="Department Information" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">171c66d6dbb8b60059c7f9a41d961964</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>df1c66d6dbb8b60059c7f9a41d961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Section Information" display_value="Section Information" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">5b1c66d6dbb8b60059c7f9a41d961964</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>931c66d6dbb8b60059c7f9a41d961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Checkstand Information" display_value="Checkstand Information" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">9f1c66d6dbb8b60059c7f9a41d961964</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>571c66d6dbb8b60059c7f9a41d961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Real Estate Information" display_value="Real Estate Information" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">d31c66d6dbb8b60059c7f9a41d961965</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>2b1c66d6dbb8b60059c7f9a41d961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Store Hours" display_value="Store Hours" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961965</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>10</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>eb1c66d6dbb8b60059c7f9a41d961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Fuel Station" display_value="Fuel Station" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">5f1c66d6dbb8b60059c7f9a41d961965</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>11</position>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>af1c66d6dbb8b60059c7f9a41d961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_safe2_new_store_store" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">1b1c66d6dbb8b60059c7f9a41d961966</sys_ui_form>
+            <sys_ui_section caption="Store Equipment Information" display_value="Store Equipment Information" name="x_safe2_new_store_store" sys_domain="global" view="531c66d6dbb8b60059c7f9a41d961962">931c66d6dbb8b60059c7f9a41d961966</sys_ui_section>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_safe2_new_store_store</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>lzagu00.sa</sys_created_by>
+            <sys_created_on>2017-02-10 01:08:05</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>1b1c66d6dbb8b60059c7f9a41d961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_safe2_new_store_store</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1b1c66d6dbb8b60059c7f9a41d961966</sys_update_name>
+            <sys_updated_by>lzagu00.sa</sys_updated_by>
+            <sys_updated_on>2017-02-10 01:08:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Create New Store Setup" name="Create_New_Store_Setup">531c66d6dbb8b60059c7f9a41d961962</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
