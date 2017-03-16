@@ -9,7 +9,7 @@
         </element>
         <element label="Division" max_length="32" name="division" reference="x_safe2_new_store_store_division" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Person for Money Order Equipment" max_length="40" name="money_ord_cntct_nm" type="string"/>
-        <element audit="true" choice="3" label="Retail Order Group" max_length="4" name="rog_cd" type="string">
+        <element audit="true" choice="3" label="Retail Order Group" max_length="4" name="rog_cd" type="choice">
             <choice>
                 <element label="- Select ROG -" value="na"/>
                 <element label="ADEN" value="ADEN"/>
@@ -19,14 +19,13 @@
         <element choice="3" label="Store Type" max_length="15" name="store_type" type="string">
             <choice>
                 <element label="Closed Store" value="closed_store"/>
-                <element label="Fuel Station" value="fuel_station"/>
                 <element label="New Store" value="new_store"/>
             </choice>
         </element>
         <element audit="true" label="Store Address" max_length="40" name="str_addr_txt" type="string"/>
         <element audit="true" label="Store Division" max_length="40" name="str_div" type="integer"/>
         <element audit="true" display="true" label="Store Number" max_length="40" name="str_nbr" type="integer"/>
-        <element choice="3" label="Store Status" max_length="15" name="str_status" type="string">
+        <element choice="3" label="Store Status" max_length="15" name="str_status" type="choice">
             <choice>
                 <element label="Complete" value="cp"/>
                 <element label="In Progress" value="ip"/>
