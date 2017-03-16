@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <logo/>
         <menu/>
-        <name>New Store Setup</name>
+        <name>Store Setup</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -22,9 +22,9 @@
         <sys_created_by>lzagu00.sa</sys_created_by>
         <sys_created_on>2017-01-31 05:15:45</sys_created_on>
         <sys_id>69e4481fdb28720059c7f9a41d9619ec</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>lzagu00.sa</sys_updated_by>
-        <sys_updated_on>2017-01-31 05:15:45</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>LZAGU00.SA</sys_updated_by>
+        <sys_updated_on>2017-03-16 04:43:52</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>

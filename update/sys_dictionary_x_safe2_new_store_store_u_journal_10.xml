@@ -47,16 +47,16 @@
         <sys_created_by>lzagu00.sa</sys_created_by>
         <sys_created_on>2017-02-08 03:35:08</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>399a38f9dbf4760059c7f9a41d961933</sys_id>
+        <sys_id>3c306a15db617a0059c7f9a41d961953</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Work Notes</sys_name>
-        <sys_package display_value="New Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
+        <sys_package display_value="Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="New Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
+        <sys_scope display_value="Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
         <sys_update_name>sys_dictionary_x_safe2_new_store_store_u_journal_10</sys_update_name>
-        <sys_updated_by>lzagu00.sa</sys_updated_by>
-        <sys_updated_on>2017-02-08 03:35:08</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-03-16 04:29:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
