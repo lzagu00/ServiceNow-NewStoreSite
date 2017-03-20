@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Fuel Station" max_length="40" name="x_safe2_new_store_fuel_station" type="collection">
+        <element choice_field="corp" display="true" label="Division" mandatory="true" max_length="32" name="division_ref" reference="x_safe2_new_store_division" type="reference"/>
         <element label="Store Number" max_length="4" name="store_number_fs" type="integer"/>
+        <index name="index">
+            <element name="division_ref"/>
+        </index>
     </element>
 </database>

@@ -5,13 +5,13 @@
             <element>division_name</element>
             <position>0</position>
             <sys_created_by>LZAGU00.SA</sys_created_by>
-            <sys_created_on>2017-03-20 04:56:00</sys_created_on>
-            <sys_id>d8bc47aadbe5fa0059c7f9a41d961906</sys_id>
+            <sys_created_on>2017-03-20 05:34:04</sys_created_on>
+            <sys_id>7d65d362db29fa0059c7f9a41d961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_safe2_new_store_division" sys_domain="global" view="Default view">473c03aadbe5fa0059c7f9a41d96199b</sys_ui_section>
             <sys_updated_by>LZAGU00.SA</sys_updated_by>
-            <sys_updated_on>2017-03-20 04:56:00</sys_updated_on>
+            <sys_updated_on>2017-03-20 05:34:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,27 +19,41 @@
             <element>division_number</element>
             <position>1</position>
             <sys_created_by>LZAGU00.SA</sys_created_by>
-            <sys_created_on>2017-03-20 04:56:00</sys_created_on>
-            <sys_id>5cbc47aadbe5fa0059c7f9a41d961906</sys_id>
+            <sys_created_on>2017-03-20 05:34:04</sys_created_on>
+            <sys_id>fd65d362db29fa0059c7f9a41d961936</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_safe2_new_store_division" sys_domain="global" view="Default view">473c03aadbe5fa0059c7f9a41d96199b</sys_ui_section>
             <sys_updated_by>LZAGU00.SA</sys_updated_by>
-            <sys_updated_on>2017-03-20 04:56:00</sys_updated_on>
+            <sys_updated_on>2017-03-20 05:34:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>corp</element>
+            <position>2</position>
+            <sys_created_by>LZAGU00.SA</sys_created_by>
+            <sys_created_on>2017-03-20 05:34:04</sys_created_on>
+            <sys_id>7165d362db29fa0059c7f9a41d961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_safe2_new_store_division" sys_domain="global" view="Default view">473c03aadbe5fa0059c7f9a41d96199b</sys_ui_section>
+            <sys_updated_by>LZAGU00.SA</sys_updated_by>
+            <sys_updated_on>2017-03-20 05:34:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>LZAGU00.SA</sys_created_by>
-            <sys_created_on>2017-03-20 04:56:00</sys_created_on>
-            <sys_id>dcbc47aadbe5fa0059c7f9a41d961906</sys_id>
+            <sys_created_on>2017-03-20 05:34:04</sys_created_on>
+            <sys_id>f165d362db29fa0059c7f9a41d961937</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_safe2_new_store_division" sys_domain="global" view="Default view">473c03aadbe5fa0059c7f9a41d96199b</sys_ui_section>
             <sys_updated_by>LZAGU00.SA</sys_updated_by>
-            <sys_updated_on>2017-03-20 04:56:00</sys_updated_on>
+            <sys_updated_on>2017-03-20 05:34:04</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>

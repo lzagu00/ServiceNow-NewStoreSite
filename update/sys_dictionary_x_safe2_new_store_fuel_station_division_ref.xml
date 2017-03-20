@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="division_name" table="x_safe2_new_store_division">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="division_ref" table="x_safe2_new_store_fuel_station">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -12,9 +12,9 @@
 
 })(current);</calculation>
         <choice/>
-        <choice_field/>
+        <choice_field>corp</choice_field>
         <choice_table/>
-        <column_label>Division Name</column_label>
+        <column_label>Division</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,18 +27,18 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>division_name</element>
+        <element>division_ref</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>true</mandatory>
-        <max_length>40</max_length>
-        <name>x_safe2_new_store_division</name>
+        <max_length>32</max_length>
+        <name>x_safe2_new_store_fuel_station</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="x_safe2_new_store_division">x_safe2_new_store_division</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -50,18 +50,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>LZAGU00.SA</sys_created_by>
-        <sys_created_on>2017-03-20 04:50:14</sys_created_on>
+        <sys_created_on>2017-03-20 05:05:47</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>66ca436adbe5fa0059c7f9a41d9619a7</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Division Name</sys_name>
+        <sys_id>545ec3eadbe5fa0059c7f9a41d96196d</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Division</sys_name>
         <sys_package display_value="Store Setup" source="x_safe2_new_store">69e4481fdb28720059c7f9a41d9619ec</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Store Setup">69e4481fdb28720059c7f9a41d9619ec</sys_scope>
-        <sys_update_name>sys_dictionary_x_safe2_new_store_division_division_name</sys_update_name>
+        <sys_update_name>sys_dictionary_x_safe2_new_store_fuel_station_division_ref</sys_update_name>
         <sys_updated_by>LZAGU00.SA</sys_updated_by>
-        <sys_updated_on>2017-03-20 05:49:28</sys_updated_on>
+        <sys_updated_on>2017-03-20 05:50:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

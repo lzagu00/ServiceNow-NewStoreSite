@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Division" max_length="40" name="x_safe2_new_store_division" type="collection">
-        <element label="Division Name" mandatory="true" max_length="40" name="division_name" type="string"/>
+        <element choice="3" label="Corp" mandatory="true" max_length="2" name="corp" type="integer">
+            <choice>
+                <element label="US" value="1"/>
+            </choice>
+        </element>
+        <element display="true" label="Division Name" mandatory="true" max_length="40" name="division_name" type="string"/>
         <element label="Division Number" mandatory="true" max_length="3" name="division_number" type="integer"/>
     </element>
 </database>
