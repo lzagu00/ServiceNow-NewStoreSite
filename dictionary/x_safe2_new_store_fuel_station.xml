@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Fuel Station" max_length="40" name="x_safe2_new_store_fuel_station" type="collection">
+        <element label="Store Number" max_length="4" name="store_number_fs" type="integer"/>
+    </element>
+</database>

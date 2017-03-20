@@ -7,7 +7,6 @@
                 <element label="CANADA" sequence="1" value="CANADA"/>
             </choice>
         </element>
-        <element label="Division" max_length="32" name="division" reference="x_safe2_new_store_store_division" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Person for Money Order Equipment" max_length="40" name="money_ord_cntct_nm" type="string"/>
         <element audit="true" choice="3" label="Retail Order Group" max_length="4" name="rog_cd" type="choice">
             <choice>
@@ -100,8 +99,5 @@
         <element attributes="edge_encryption_enabled=true" label="District Managers Name" max_length="40" name="u_string_8" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Other (text area limit is 254 characters)" max_length="255" name="u_string_full_utf8_27" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true" label="Others (limit 254 characters)" max_length="255" name="u_string_full_utf8_7" type="string_full_utf8"/>
-        <index name="index">
-            <element name="division"/>
-        </index>
     </element>
 </database>
